@@ -39,11 +39,11 @@ section {
 .image {
   width: 280px;
   height: 150px;
-  background-position: center;
+  background-position: bottom;
   background-size: cover;
 }
 
-.image1 {  
+.image1 {
   background-image: url(img/flow01.png);
 }
 
